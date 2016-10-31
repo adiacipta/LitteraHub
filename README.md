@@ -1,2 +1,2 @@
-# LitteraHub
-Repository for Littera HUD
+# LitteraHud
+Android HUD for progress bar and confirmation using layout
